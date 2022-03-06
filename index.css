@@ -20,6 +20,8 @@ body {
     height: 35rem;
     border-radius: 1.25rem;
     background-color: #fff;
+    box-shadow: 0px 10px 18px hsl(224, 48%, 73%);
+
 }
 
 .card-img img {
@@ -129,4 +131,16 @@ footer {
     bottom: 0;
     text-align: center;
     color: hsl(215, 51%, 70%);
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        width: 25rem;
+        height: 38rem;
+    }
+
+    .card-text {
+        padding: 0 1.5rem;
+    }
+
 }
