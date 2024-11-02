@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/card-component-with-html-and-css-LhnIXW8zA]
-- Live Site URL: [https://ericl81.github.io/FEM-Order_Summary_Component/]
+- Live Site URL: [https://ericldev.github.io/FEM-Order_Summary_Component/]
 
 # Frontend Mentor - Order summary card
 
